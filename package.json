@@ -1,9 +1,36 @@
 {
-  "name": "mustache",
+  "name": "mustache-bun",
   "version": "4.2.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuigiColantuono/Mustache-Bun.git"
+  },
   "description": "Logic-less {{mustache}} templates with JavaScript",
+  "keywords": [
+    "mustache",
+    "template",
+    "templates",
+    "bun"
+  ],
+  "author": {
+    "name": "Luigi Colantuono",
+    "url": "https://github.com/LuigiColantuono"
+  },
+  "homepage": "https://github.com/LuigiColantuono",
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/l0g4n7"
+  },
   "type": "module",
   "main": "mustache.js",
+  "types": "mustache.d.ts",
+  "files": [
+    "mustache.js",
+    "mustache.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lint": "eslint ."
   },
