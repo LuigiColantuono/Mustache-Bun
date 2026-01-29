@@ -1,6 +1,6 @@
 {
   "name": "mustache",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Logic-less {{mustache}} templates with JavaScript",
   "type": "module",
   "main": "mustache.js",
