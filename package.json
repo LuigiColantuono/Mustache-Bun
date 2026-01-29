@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/LuigiColantuono/Mustache-Bun.git"
   },
-  "description": "Logic-less {{mustache}} templates with JavaScript",
+  "description": "High-performance, Bun-native refactor of mustache.js. Purged legacy bloat, optimized for raw string rendering with zero-overhead. ",
   "keywords": [
     "mustache",
     "template",
