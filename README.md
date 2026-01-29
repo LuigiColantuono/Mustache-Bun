@@ -25,7 +25,7 @@ Stop carrying the weight of 2015. **mustache-bun** is a stripped-down, pure ESM 
 | **mustache** (official) | ~114 kB | Legacy Bloat | ~114 kB |
 | **mustache-bun** (yours) | **~24.1 kB** | **NONE** | **~24.1 kB** |
 
-** ~79% smaller than the original!**
+**~79% smaller than the original!**
 
 ### Installation
 
@@ -35,7 +35,6 @@ bun add mustache-bun
 
 ### Documentation & Credits
 
-Original logic and architecture by **Jan Lehnardt (janl)**. For full usage instructions, refer to the [official documentation](https://github.com/janl/mustache.js).
-
-Refactored, optimized, and maintained for the **Bun** ecosystem by **Luigi Colantuono**.
+> Original logic and architecture by **Jan Lehnardt (janl)**. For full usage instructions, refer to the [official documentation](https://github.com/janl/mustache.js).
+> Refactored, optimized, and maintained for the **Bun** ecosystem by **Luigi Colantuono**.
 
