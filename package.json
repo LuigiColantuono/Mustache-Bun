@@ -22,6 +22,10 @@
     "url": "https://paypal.me/l0g4n7"
   },
   "type": "module",
+  "exports": {
+    ".": "./mustache.js",
+    "./mustache.js": "./mustache.js"
+  },
   "main": "mustache.js",
   "types": "mustache.d.ts",
   "files": [
