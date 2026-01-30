@@ -23,7 +23,7 @@ Stop carrying the weight of 2015. **mustache-bun** is a stripped-down, pure ESM 
 | Package | Unpacked Size | Dependencies | Total Install |
 | :--- | :--- | :--- | :--- |
 | **mustache** (official) | ~114 kB | Legacy Bloat | ~114 kB |
-| **mustache-bun** (yours) | **~24.1 kB** | **NONE** | **~24.1 kB** |
+| **mustache-bun**  | **~24.1 kB** | **NONE** | **~24.1 kB** |
 
 **~79% smaller than the original!**
 
